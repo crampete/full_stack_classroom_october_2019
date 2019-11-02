@@ -35,3 +35,15 @@
 - Using Chrome's developer tools to simulate different screen sizes.
 - Mobile first approach.
 - Started building a small mobile responsive layout.
+
+## Day 5
+
+- Quick recap.
+- Basics of media queries.
+- Why use bootstrap breakpoints?
+- Descendant selector and Adjacent selector in CSS.
+- `inline` vs `inline-block` vs `block`.
+- `rem` units.
+- CSS Specificity basics.
+- Relative linking in HTML.
+- Semantic HTML brief and advantages.
