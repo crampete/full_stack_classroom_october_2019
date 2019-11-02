@@ -1,0 +1,35 @@
+#my-para {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+.green-text {
+  color: green;
+}
+
+.green-text {
+  color: pink;
+}
+
+#my-span {
+  background-color: yellow;
+}
+
+.pink-background {
+  background-color: pink;
+}
+
+.p-background {
+  background-color: pink;
+}
+
+.pi-background {
+  background-color: pink;
+}
+
+#my-div {
+  background-color: yellow !important;
+}
