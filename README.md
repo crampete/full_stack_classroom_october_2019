@@ -47,3 +47,15 @@
 - CSS Specificity basics.
 - Relative linking in HTML.
 - Semantic HTML brief and advantages.
+
+## Day 6 & 7
+
+- Mobile first approach.
+- What and why of Bootstrap?
+- Bootstrap starter template.
+- Bootstrap utilities and how they work.
+- Bootstrap grid system and coding something similar ourselves.
+- Bootstrap components (Navbar, Jumbotron).
+- Learning how to read Bootstrap's documentation.
+- Hiding stuff in certain screen sizes and showing them in other sizes.
+- Overriding Bootstrap default styles using our stylesheet.
