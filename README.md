@@ -59,3 +59,26 @@
 - Learning how to read Bootstrap's documentation.
 - Hiding stuff in certain screen sizes and showing them in other sizes.
 - Overriding Bootstrap default styles using our stylesheet.
+
+## Day 8
+
+- What is a programming language?
+- Distinction between HTML & CSS and JS.
+- Variables
+- `console.log()`
+- Operators
+  - Arithmetic
+  - Comparison
+  - Operator Precedence
+- Datatypes and simple operations
+  - String concatenation
+  - Array accessing, deleting and pushing
+- Control Statements
+  - If Conditions with simple applications
+  - For Loops with simple applications
+
+## Day 9
+
+- Only 4/12 students present.
+- Deviated into Backend. (IP, Domains, Servers, HTTP etc)
+- Logic Puzzles using Control Statements.
