@@ -82,3 +82,26 @@
 - Only 4/12 students present.
 - Deviated into Backend. (IP, Domains, Servers, HTTP etc)
 - Logic Puzzles using Control Statements.
+
+## Day 10
+
+- Deviated to Git. Low attendance.
+- What is Git? Use cases.
+- Reverting changes using Git.
+- Git vs GitHub
+- Uploading a small project to GitHub.
+
+## Day 11 & 12
+
+- Functions in JavaScript
+- Arguments to functions
+- Scope in functions
+- Return statements
+- Return statements acting as values
+- What are classes (behaviour/action and data) and what are objects?
+- Constructors
+- Methods in classes (bevaiour)
+- Inheritance (extends keyword)
+- Initialising new objects and using them in Arrays.
+- Using objects and making them do stuff.
+- `new Array()`, `new String()` and `new Number()`.
