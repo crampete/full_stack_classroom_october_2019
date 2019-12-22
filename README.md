@@ -105,3 +105,33 @@
 - Initialising new objects and using them in Arrays.
 - Using objects and making them do stuff.
 - `new Array()`, `new String()` and `new Number()`.
+
+## Day 13 & 14
+
+- What is the DOM?
+- DOM Manipulation
+  - `getElementById`, `getElementsByClassName` and `getElementsByTagName`
+  - Modifying text
+  - Deleting elements
+  - Creating new elements
+  - Changing CSS
+- Event Listeners (onClick, onHover)
+- `setTimeout` and `setInterval`
+- Very brief touch up on jQuery
+- Simple animations using DOM Manipulation and `setInterval`
+
+## Day 15 & 16
+
+- Browser JavaScript and Node.js
+- History and differences
+- ES5, ES6, ES7 etc
+- How the browser acts as a sandbox for user safety
+- Brief intro to `npm`
+- React use cases and installation
+- Folder structure on a React Application
+- What and why of components?
+- Passing data from parent to child using props
+- State vs Props
+- Changing state using `this.setState()`
+- Simple components which use state and props
+- Simple ways to style using `className`, `id` and inline `style`
