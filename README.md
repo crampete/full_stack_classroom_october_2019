@@ -135,3 +135,15 @@
 - Changing state using `this.setState()`
 - Simple components which use state and props
 - Simple ways to style using `className`, `id` and inline `style`
+
+## Day 17 & 18
+
+- React State, Props Refresher
+- Event Listeners in React
+- Built a Mini Project
+- Higher Order Components
+- Single Page Applications - Concepts and Advantages
+- Server Render Views vs Single Page Applications
+- Routing in React using React Router DOM
+- Higher Order Components
+- [Small Example](https://github.com/crampete/full_stack_classroom_july_2019/tree/master/day_19_n_20/code_snippets/6-router)
