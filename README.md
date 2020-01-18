@@ -147,3 +147,29 @@
 - Routing in React using React Router DOM
 - Higher Order Components
 - [Small Example](https://github.com/crampete/full_stack_classroom_july_2019/tree/master/day_19_n_20/code_snippets/6-router)
+
+## Day 19 & 20
+
+- Servers, IP and the Internet
+- Web Servers and Port Numbers
+- Deep dive into servers and clients
+- Request Response Lifecycle
+- Intro to Protocols
+- HTTP Protocols basics
+- Status Codes
+- REST Basics
+- Breaking a web application into CRUD operations
+- Routes for CRUD operations
+- Intro to Mongo DB
+- Database, Collections, Documents and IDs
+- Using Atlas's Free Tier
+- Using Robo3T to connect and make modifications
+- Inserting data using Node.js and Mongo Driver.
+
+## Day 21
+
+- Higher Order Functions and Uses
+- `npm init` and `package.json` refresher
+- Higher Order Functions in Express.js
+- Automatically restarting the server using `nodemon`
+- Wrote a few routes and tested them using Postman.
