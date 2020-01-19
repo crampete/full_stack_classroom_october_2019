@@ -173,3 +173,13 @@
 - Higher Order Functions in Express.js
 - Automatically restarting the server using `nodemon`
 - Wrote a few routes and tested them using Postman.
+
+## Day 22
+
+- Routes for Creating, Reading, Updating and Deleting a resource. (Library Application)
+- Stored data in local variables.
+- Headers and Body in Requests and Responses.
+- Variable Route Patterns.
+- Tested routes using Postman.
+- Mongo Refresher.
+- Mongoose Basics - What and Why?
