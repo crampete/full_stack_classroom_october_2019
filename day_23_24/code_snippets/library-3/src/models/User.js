@@ -6,4 +6,4 @@ var User = mongoose.model("User", {
   password: { type: String, required: true }
 });
 
-export default User;
+module.exports = User;

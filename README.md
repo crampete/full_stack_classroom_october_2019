@@ -183,3 +183,14 @@
 - Tested routes using Postman.
 - Mongo Refresher.
 - Mongoose Basics - What and Why?
+
+## Day 23
+
+- MVC - What and Why?
+- Native driver (Plain Mongo) to create documents
+- Difficulty validating.
+- Mongoose - Comparison against using just the native driver.
+- Brief into relations in a database.
+- Creating and using a Mongoose Schema.
+- Using `package.json` to create a small script `(npm run develop)`.
+- Project Organisation into Models, Views and Controllers.
