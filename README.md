@@ -194,3 +194,14 @@
 - Creating and using a Mongoose Schema.
 - Using `package.json` to create a small script `(npm run develop)`.
 - Project Organisation into Models, Views and Controllers.
+
+## Day 24
+
+- What is Async Programming?
+- Ram, Hard Disk and Network calls.
+- Async using Callbacks.
+- Async using Promises.
+- Nested async code.
+- Mongoose using Callbacks.
+- Mongoose using Promises.
+- Worked on a few controllers.

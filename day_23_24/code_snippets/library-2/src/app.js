@@ -16,11 +16,34 @@ app.get("/book", (req, res) => {});
 
 app.get("/user", (req, res) => {});
 
+app.get("/book/:isbn", (req, res) => {
+  // can name i, isbn or anything
+  const i = req.params.isbn;
+  console.log(i);
+  Book.find({ isbn: i })
+    .then(book => {
+      console.log(book);
+      if (book) {
+        return res.send(book);
+      } else {
+        return res.status(404).send({ data: [] });
+      }
+    })
+    .catch(err => {
+      return res.status(500).send({ state: "fail" });
+    });
+});
+
 app.post("/book", (req, res) => {
   // storing the json body in a variable
   var incomingData = req.body;
   //creating a new Book object
-  var a = new Book(incomingData);
+  var a = new Book({
+    isbn: incomingData.isbn,
+    title: incomingData["title"],
+    author: incomingData["author"]
+  });
+
   a.save(function(err, book) {
     // if something goes wrong send appropriate message
     if (err) {
