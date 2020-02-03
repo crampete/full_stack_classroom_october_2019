@@ -189,7 +189,7 @@
 - MVC - What and Why?
 - Native driver (Plain Mongo) to create documents
 - Difficulty validating.
-- Mongoose - Comparison against using just the native driver.
+- ODM's and Mongoose - Comparison against using just the native driver.
 - Brief into relations in a database.
 - Creating and using a Mongoose Schema.
 - Using `package.json` to create a small script `(npm run develop)`.
@@ -205,3 +205,23 @@
 - Mongoose using Callbacks.
 - Mongoose using Promises.
 - Worked on a few controllers.
+
+## Day 25
+
+- Breaking controllers into multiple files.
+- Updating using Mongoose.
+- Revisited a few concepts.
+  - Status codes
+  - Methods
+  - Promises
+  - Headers and Body of a request
+  - Pattern matching in a route
+
+## Day 26
+
+- Connecting backend with the front-end
+- Simple React app that uses Axios to talk to the backend and display data
+- `proxy` in `package.json`
+- Tracking source code using Git
+- Pushing code to GitHub
+- Using `.gitignore`

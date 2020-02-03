@@ -3,12 +3,18 @@ var router = express.Router();
 
 var User = require("../models/User");
 
-router.get();
+// similar to Book.js fill all the routes here.
+// 5 routes
 
-router.put();
+/*
+    - Create new user
+    - Read individual user
+    - Real all users
+    - Update user
+    - Delete user
 
-router.post();
+    Use same REST standards as Book.js (status codes, methods etc)
 
-router.delete();
+*/
 
-export default router;
+module.exports = router;
