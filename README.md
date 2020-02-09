@@ -225,3 +225,20 @@
 - Tracking source code using Git
 - Pushing code to GitHub
 - Using `.gitignore`
+
+## Day 27 & 28
+
+- AJAX - What, Why and Examples.
+- AJAX using Axios.
+- `.preventDefault()` in forms.
+- Revised a lot of React concepts.
+- Creating new resources using React, forms and AJAX.
+- Lifecycle methods
+- `componentDidMount` with use cases.
+- Loading search results while mounting using `componentDidMount`.
+- Query Parameters
+- API design for reusing routes (searching using query parameters. Passing data via query params to pass filters)
+- Brief about Mongo Indexes.
+- Axios `.finally()` and `.create()` to set defaults like baseURL.
+- Functional Components in React.
+- `map()` in React to render an array.
