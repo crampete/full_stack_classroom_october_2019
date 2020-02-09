@@ -6,6 +6,10 @@ const BookController = require("./controllers/Book");
 
 app.use(express.json());
 
+// you should not publish your mongo uri on GitHub but I've done it
+// anyways for convinience.
+// will be deleting this mongo instance.
+
 mongoose.connect(
   "mongodb+srv://crampete:crampete123@cluster0-jalxg.mongodb.net/library?retryWrites=true&w=majority",
   { useNewUrlParser: true }
