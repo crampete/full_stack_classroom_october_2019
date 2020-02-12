@@ -67,6 +67,7 @@ class NewBook extends React.Component {
               onChange={this.handleChange}
             />
           </div>
+        {/* ideally should attach for form onSubmit eventListener */}
           <button type="submit" onClick={this.handleSubmit}>
             Submit
           </button>
