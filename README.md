@@ -242,3 +242,16 @@
 - Axios `.finally()` and `.create()` to set defaults like baseURL.
 - Functional Components in React.
 - `map()` in React to render an array.
+
+## Day 29 & 30
+
+- User sign up.
+- Saving passwords in Mongo.
+- Hashing functions.
+- `bcrypt` to hash passwords and verify passwords.
+- `sparse`, `unique` and `default` using mongoose.
+- How do websites remember us?
+- JWT and Cookies.
+- JWT internals - data and signature.
+- Creating a token using JWT.
+- Sign in route backend.
