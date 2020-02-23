@@ -255,3 +255,15 @@
 - JWT internals - data and signature.
 - Creating a token using JWT.
 - Sign in route backend.
+
+## Day 31 & 32
+
+- Sending JWT in the headers using Postman.
+- Sending JWT using Axios.
+- `componentDidMount()` Lifecycle to load profile data.
+- `withRouter` higher level component.
+- Checking for JWT in the backend.
+- DRY - Using Middleware to refactor JWT checking.
+- General thinking (why not store more data in JWT? Why send wrong ID and password etc)
+- Interview questions and how to tackle them.
+- Resume Making Guidelines.
